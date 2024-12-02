@@ -1,0 +1,15 @@
+*{
+    margin:0px ;
+    padding:0px ;
+}
+.abc{
+    background-color:rgb(82, 77, 77);
+    height: 200px;
+}
+.abc img{
+    height: 200px;
+    width: 200px;
+    position: relative;top: 200px;
+    
+
+}
